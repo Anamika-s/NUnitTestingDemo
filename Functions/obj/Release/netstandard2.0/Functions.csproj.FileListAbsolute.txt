@@ -1,0 +1,9 @@
+C:\Users\adminvm.adminvm\source\repos\Functions\Functions\bin\Release\netstandard2.0\Functions.deps.json
+C:\Users\adminvm.adminvm\source\repos\Functions\Functions\bin\Release\netstandard2.0\Functions.dll
+C:\Users\adminvm.adminvm\source\repos\Functions\Functions\bin\Release\netstandard2.0\Functions.pdb
+C:\Users\adminvm.adminvm\source\repos\Functions\Functions\obj\Release\netstandard2.0\Functions.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\source\repos\Functions\Functions\obj\Release\netstandard2.0\Functions.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\source\repos\Functions\Functions\obj\Release\netstandard2.0\Functions.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\source\repos\Functions\Functions\obj\Release\netstandard2.0\Functions.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\source\repos\Functions\Functions\obj\Release\netstandard2.0\Functions.dll
+C:\Users\adminvm.adminvm\source\repos\Functions\Functions\obj\Release\netstandard2.0\Functions.pdb
